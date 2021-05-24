@@ -1,1 +1,1 @@
-# viral_genome_sop
+# Viral Metagenomics SOP
